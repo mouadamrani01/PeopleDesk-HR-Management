@@ -1,0 +1,325 @@
+original_path,bytes,sha256,review_category,delivery_decision
+.classpath,935,14e03860953adff05d8b3568a3950fc23a09188c9ebfd59044ae3c87e5a792bd,Eclipse/local metadata,Replaced by portable Maven configuration
+.project,910,d687479454fd04aff450380dfd600ac1b1eb1514c3c7a70f32b66c034d979990,Eclipse/local metadata,Replaced by portable Maven configuration
+.settings/.jsdtscope,567,c377b07ab7241e257ce0bfe58dea84ec6075bb0c95e95f6ea20ca1c5fadf49f7,Eclipse/local metadata,Replaced by portable Maven configuration
+.settings/org.eclipse.jdt.core.prefs,856,4002225bffe74d53fd302a4c1150f7c2bc253e6f0851274873b4428c2bf3877d,Eclipse/local metadata,Replaced by portable Maven configuration
+.settings/org.eclipse.ltk.core.refactoring.prefs,106,7796567e72315e4be0dd67128447e4a48da08d8c1584822059a12ff48e4d7812,Eclipse/local metadata,Replaced by portable Maven configuration
+.settings/org.eclipse.wst.common.component.xml,482,4ca0db1ceb9d62ef264524fca2acd37fd0ec4d5bcf274857419173d3eff8afbc,Eclipse/local metadata,Replaced by portable Maven configuration
+.settings/org.eclipse.wst.common.project.facet.core.xml,345,56b6747ceb12a12054731641ca57f6c599c611780ab6f016090082cfd7a4bbcd,Eclipse/local metadata,Replaced by portable Maven configuration
+.settings/org.eclipse.wst.jsdt.ui.superType.container,49,46c87f902091fa8a81c02359cbc132eebc31753a70b3130de5a7d760d2f00ffe,Eclipse/local metadata,Replaced by portable Maven configuration
+.settings/org.eclipse.wst.jsdt.ui.superType.name,6,19734a1b58cabc22cae1f88493289ee94f40ff2b350f7f1b9f7011ea84096916,Eclipse/local metadata,Replaced by portable Maven configuration
+WebContent/.github/workflows/main.yml,1306,6f94c8935db6e41fc48107b5316f68f3a0a65fa9ded7e1c560f6db3bb9a7938d,Template/build/documentation content,Removed or replaced by project-specific documentation
+WebContent/CHANGELOG.md,198,af68f4c6dca5035f7bbc75bde06fc5ceffc274c68aa94f3f400ac2edeb7c8cc1,Template/build/documentation content,Removed or replaced by project-specific documentation
+WebContent/ISSUE_TEMPLATE.md,384,748b9bb6efec362b3a28dfb3ae5d43aa9968d189cfa71bdc312c27dcbdad1fd2,Template/build/documentation content,Removed or replaced by project-specific documentation
+WebContent/LICENSE.md,1100,7a56b68d28f0f529fa71ec188d89e8e90a752d4417bc9f54eed0b0c1905f6ea3,License/provenance,Original template notice retained in docs where relevant
+WebContent/META-INF/MANIFEST.MF,39,4acc9fa0930443bfb74044ff6a6ea7da767c0cf64c8d50e61105b97835733a2a,Template/build/documentation content,Removed or replaced by project-specific documentation
+WebContent/README.markdown,269,8d7d23537c40b2e3449d4a35848ed8fd9980406777f888f638d59b25225f3ea6,Template/build/documentation content,Removed or replaced by project-specific documentation
+WebContent/README.md,7579,5cc5b228ccf244b5acf7d8608b1f7e9cc6b27ac612d65991dc63618e7489b405,Template/build/documentation content,Removed or replaced by project-specific documentation
+WebContent/WEB-INF/lib/jstl-1.2.jar,414240,c6273119354a41522877e663582041012b22f8204fe72bba337ed84c7e649b0a,Bundled Java dependency,Replaced by Maven dependency declaration
+WebContent/WEB-INF/lib/mysql-connector-java-8.0.24.jar,2428323,99b52da63d9d31d5494a302f3dbb554b730cc20db1fb09eda64ab0e27c130aab,Bundled Java dependency,Replaced by Maven dependency declaration
+WebContent/assets/css/black-dashboard.css,402631,775d7e410e89ede6e7bef6fd2257b74b7d253b00fe64cd5b91f701abf802e7fe,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/css/black-dashboard.css.map,833071,92765b8da091270d471716e35130a529cc7cb86f401f61999d64c5364f11fe43,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/css/black-dashboard.min.css,310266,113c9f0a3bb18f2ec35b2b1bbbbbeb872f14424a8069b4d52991307fcc734c16,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/css/nucleo-icons.css,7743,aed813cc1accb0b6ae5a583d65b71417e69ba40657655b7ab8c6b039d70ef05b,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/demo/demo.css,904,49b1291ac9b6fb2e32ed8bc6b422bcaac250983ee013c1a842ce318118334279,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/demo/demo.js,19027,9804aece66fe04fbbc2ef46a51efb447cfdfd8d3a7e223889648998c4df9f8fd,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/fonts/nucleo.eot,26524,e5fdc0118d5360d28e7170e50044f62f77b595a31f7e74bc3ccd758f840be464,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/fonts/nucleo.ttf,26364,a5cf5fb8de301b603bfa3057d0ba6677f5297a784c68a73579e05b1b82b1b718,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/fonts/nucleo.woff,15168,52bbb216e05f25a9acec92d71743ac31c0574e3b66ce00b59fec03ef338594ae,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/fonts/nucleo.woff2,12616,b717e038007013b2e2500582ee94d892ae80a17dea95c760673a5c884402daf6,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/img/12345.png,1682267,d014197a355b6a3c638659295b415b69839d68440acf0a894155ed9b3492083b,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/img/anime3.png,37930,13f7129accc33384bd20b410aec350c7d14ec11fe71cfc13e38ca129debdda7d,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/img/anime6.png,39891,686a5802df3345789978fd68b6880ce13fe1f8d4c3d869bf215bc427985246d7,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/img/apple-icon.png,2446,8f3c48df0d37cb6feb6c3e0894af66053afc8a2a6711c4742c46ac4a8cad84ff,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/img/bg5.jpg,213199,449a37fc1c603709726ee74a13303af48c6fa0d227fc8da7cd0a56fdf977a129,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/img/default-avatar.png,2864,e3301294767c727736499b08ba1666a76b73816c949df755e16eaa36f4b14f06,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/img/emilyz.jpg,86218,67d3b232027d98da52889f39330125a8d1a79a6c1f583b85148b701e2feb72cd,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/img/favicon.png,2761,b7795196a758b1216a28de3f39cb4f8d517e6ef26e8b88598b4337a2378b0409,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/img/header.jpg,670266,1d1c8a3477d798ed6c22c9c1144fc5c13f3ac7e0959a3b63b211bbafd84be6cc,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/img/img_3115.jpg,38381,28baaad05e0982d56e8a53caeec15ef987743ad27f140e04619f1a0768e716ae,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/img/james.jpg,74556,70e581c6fe40b06bf3491e3f34ed73c1e3944391191313dbed96caac4d610ec1,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/img/mike.jpg,76654,4c3a982aade1ada38153fe68bd7bbd12e100aca26f99f175c0dcd1bedf68791a,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/img/now-logo.png,8172,ada85c8acfc14e9c4da2aa11838166e848c37982636231408a6a67405de8b2a9,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/js/black-dashboard.js,7296,0ba69fc68e745eafee96c45778dffca9e36db871e95a45728088c557af4bbb30,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/js/black-dashboard.js.map,4474,642063d08ff82848f03b39530964059ebf7a96d3e9c7c6fe686c73a3a393d738,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/js/black-dashboard.min.js,4540,f3f71d27abf512f2fe4ff7bb81b13a8a4cae6cf122e1a3365917d592c8843608,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/js/core/bootstrap.min.js,58031,7209e11a45cef119e8d3539afb2689835d17b16a0a22f8334d867cf77a220d2a,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/js/core/jquery.min.js,86659,87083882cc6015984eb0411a99d3981817f5dc5c90ba24f0940420c5548d82de,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/js/core/popper.min.js,18994,3675f226f985b64eea6ae8544d5496a32d19993aae1ac4a3fa101263ef3206f7,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/js/plugins/bootstrap-notify.js,15612,2cd468c96ef26fb1c6e629a7377dbb0883a53b0804ba04f1f512b88480bbf1bd,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/js/plugins/chartjs.min.js,157844,0570ddbf7269dbd6060b77e43c61f01ba8170387e77a1dc5fd5815ddfa02d974,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/js/plugins/perfect-scrollbar.jquery.min.js,18292,9d2abf6a9c06f1cca9e88e53097b19d3d1fdeb62468a71ccb6fba049e6dab1a0,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/_buttons.scss,30,34392e59be26bcf63e7040f4eb21ed4ce6c2afcd2f0a2d4105df1e29d014a1c2,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/_typography.scss,40,84d1198b54aa5853baaef8cf4d0722b7bd76a883c39b3c1648cbd4775183050f,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/_alert.scss,1148,4954115518ca77e689500d875d2f7e4cc5f232dcaec03db665dadc2368bf4b47,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/_badge.scss,1119,c875b1bba2ef41722e3d1eca0afb2d2fd7484059bbe4d1c5558d9a431ea36813,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/_breadcrumb.scss,1278,95ccf5291cf3114c73a696dd13690f04fadd38fd5fede4a96d96d98ffd9c498b,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/_button-group.scss,3624,5ebb5c8806824628ff4dceb15ee4e6783f3d83b5bc949dc9854dbd09d94dc201,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/_buttons.scss,2547,7eb9532cbcd984cde19160b615c2cebb402c2e5a449bafcb2e830164d548850e,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/_card.scss,5872,d30db1f34d5057bff742ffe3ef1d05e17b4068379ad925ed60c1df356be99e8f,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/_carousel.scss,4756,b1f66f9c3ea3e165f2fd8d0553ecd9df06bd401694dffcf19b1d18c389fab296,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/_close.scss,956,9f667d8479ee6ea957d4c21037aa3a8c8f05e91dda1381f79fe60d91e14c82ca,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/_code.scss,1013,39684fcd9153be65c68497d535d75d70b2dbb76f08467a8ef58788332c3db30f,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/_custom-forms.scss,14866,37806ca6a5944d59c1b2cc42d1c2cead41cb9380b43b051f961052cb7d813746,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/_dropdown.scss,4363,d8a910ed50ffe7e74cffa06b6a09c79d5a8212f6f63e8f9eaef81284789879db,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/_forms.scss,8816,67354e9b21cb9145e79a858da29f09b44d5511fa9c037c5044931fe1e2f5a7c0,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/_functions.scss,2719,4594651b55bb3461898eb275b139cb75653adebf1f276c22e3be53233abf2239,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/_grid.scss,1016,c580b8c1d451ccf55458e7cb63cebd9aee83df31ae01ad4c47b073d3f9664b3c,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/_images.scss,1153,18cd554da96be234bf163301a002f2b6ae87608de496d42cd042d3765ae2296e,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/_input-group.scss,5855,f97687f3a67dd8ae3efbf6672fb5d20f7fc4c4f58af619a84d55f61b92d4f73d,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/_jumbotron.scss,405,6a05af03fba27ca8bf7c0c2f060024a38bb4112d6c536b821fa4f4d6795f2b88,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/_list-group.scss,3752,632e2e237793e5011218e9a6359b5bc2772d7b35768c5672e6aa26f6345df515,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/_media.scss,83,04d8c8e714d17f1aa57e7afed1b1016d879d7161cc79651059717503f4767578,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/_mixins.scss,1059,d17293699a22c47b7988e40e901827c82bdd2278f2b936a9444f331bd5460478,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/_modal.scss,5930,22aa263e19eb5b6aada662243122e32e826ec89e3e65de1cb4f635d2e64b8a95,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/_nav.scss,2069,8503f573ed1e31b0b282d97c845be2fa959323424c01ecd604f9f9a2c71e4e31,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/_navbar.scss,6415,065a088e1e55dee070cb3dab469aab8efc954883950f565eda64ce06a4c6a082,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/_pagination.scss,1740,89836ec5251f4bf7daddb21b7eb5b9c6efff568f8a44a380b8aefd0a2d8e7732,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/_popover.scss,4797,837f07252df792281fac69244ca93da080285dd6b900fe96c617743a444bfd5b,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/_print.scss,3001,da6e00a7291ab85ca88ce10fe848b525259e9a44f0b334d5aef6e954a63a9fd5,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/_progress(1).scss,1068,b16498b94099edaf870f8f1b1b35a7a9cfab40b5f11999a89a7f2302cd82d8ef,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/_progress.scss,1068,b16498b94099edaf870f8f1b1b35a7a9cfab40b5f11999a89a7f2302cd82d8ef,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/_reboot.scss,11184,0f78f9be28f0ba622f3260d55544c7ae2d9526208728e3a0739653b4b6b88553,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/_root.scss,572,57cb6c8201fd3197d44892a5bb5f5db5cc67c4cab28b91b862d3295271f97b5f,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/_spinners.scss,1051,3bac6d1ad74c7bdb156e9e95ab9613069dd5451c690b1e32b896783ead750660,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/_tables.scss,3520,0f9ec2da7f7ae327fecf0947c26fec8ff6ddb943901d3928f9b7f61051658494,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/_toasts.scss,990,7dc6b32a51448bf34d99192d28e5913f38b1c2c4b93c4684522a27890bd089f1,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/_tooltip.scss,2512,792e414541adbc9ef4b2b43aeadc89f741fb30f11122d9ecbe305692e1df8059,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/_transitions.scss,261,21617756b43787232cedca351b15c5cc73b0c38159ac926fa84281dc1fe71c01,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/_type.scss,2244,50f89e6babef8173f6c63f9c92ca469529884a4de1c734d1b9aadbce204aa4e5,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/_utilities.scss,502,2a43d447b265bb2a3e38c04517e582f789f1602ac588f4c8bce460caab673c85,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/_variables.scss,47781,cb212f9df31cf102e0fd4a9c2f3095a5fca7ed3fdacfb20fc3b61990a2da7c7b,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/bootstrap-grid.scss,572,31d77c880c1cd5db811600b0057b36a53923de05adf7943146b983ba82bff934,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/bootstrap-reboot.scss,411,e08f1b3eabdfb79a4dbe7a559991947cb0ec4a5f9959883b5679237a8489738a,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/bootstrap.scss,920,3e250deb1d19d22b24214c3aecd990f15108edc7f6b235806f0a0d34df9a5a01,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/mixins/_alert.scss,242,75d86577eb4780173cd06bac82a7ded8a0bdc1cc8c744ea6f87bac35e0e85b41,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/mixins/_background-variant.scss,474,7425ff16f881d0333938cafc087fd64e11abbdd631647e0f93f8fa56eeba465a,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/mixins/_badge.scss,318,c496f71226942302d6603b14d765d783da4193b03ea12886b913ed2639f25f05,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/mixins/_border-radius.scss,1340,47901134e19da5d6bb0ed43504330e471796264b08461675abf8425794e765fb,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/mixins/_box-shadow.scss,532,c3fe0d3900c13e57fb650822497b65030a385c4c08380510f11af1326604498d,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/mixins/_breakpoints.scss,4482,c0480456a36e041c706bb0a9cc6eb1e395638f23b1b698c84017495070462912,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/mixins/_buttons.scss,3369,82a92d84dd2ca24e894eead05efd31146a9a3f6ee1fefa04efef3a95817bfad7,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/mixins/_caret.scss,1406,1d11261d08d0c7353872d5f26352f21da3f3c94e7fe99dbf9c766de9f2507305,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/mixins/_clearfix.scss,93,4789e07655c53ae9de37403cbaf596f140c059acaed6c4360158ab6cc14e6c29,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/mixins/_deprecate.scss,613,690780a5f568226bb755f5e601add120af65474c8f2e07764d6f10bdb586eb11,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/mixins/_float.scss,386,dcdd48caefe766306dd2185b8e647ecb642a115ba0ee6846373c2281b92de8b0,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/mixins/_forms.scss,4912,bfb4d1e36e801b10da6da3917b760d5ac526ad58b717626b318fc5db225abb5b,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/mixins/_gradients.scss,2050,fb6d548190524e40d9685b4ec63dfcbc7b474b74d1bba0511fa0c827297d1330,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/mixins/_grid-framework.scss,1828,7c6a6700304150cbbba3372413d313020cac0d3d11e8e14da2535394ce2f9178,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/mixins/_grid.scss,1568,401348f9f7af5e56aaf23cc76310440f478254047e69571ebe1f5e44e14b9d2e,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/mixins/_hover.scss,749,ec2bb763316ca4c0031edf8739f9f38de010ceef1c34604c2afafa878698586a,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/mixins/_image.scss,1159,39b64ac04a8966fe7b90e2241fc426f1c95d0e8d43816bf022d9d841d7f9835b,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/mixins/_list-group.scss,431,268492d55fce318a99982ff7079729266cdb455803f2730600e38c273466b474,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/mixins/_lists.scss,168,84717fbc7fc41ce2ba06cb7542efbf5ceca62022f32cdd48cea839c158e31624,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/mixins/_nav-divider.scss,261,cd80dca216cec4eca4f2a5ea2a430bf36c1b213139d8a3bc22270e0fff2a5b50,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/mixins/_pagination.scss,462,5d380cfec16d3d4659f8b1eb248273a53d231ff04fee9f3cf8ee66d6863c72ca,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/mixins/_reset-text.scss,479,8e512fc5a99d68250c8c2abdfc454e2e7659a56ee93a01bcfc7e64c647879be4,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/mixins/_resize.scss,202,a7f0a7d2f9904e49b70969b62d8200742f85425299efb34e2e751d35a4132ace,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/mixins/_screen-reader.scss,733,2c4b9f0aaf962c3b36b5a80f3acd040c896b2b46018ac2f635901cdcd7c2ec25,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/mixins/_size.scss,148,8654865a4acd786fe20feb3ffbd33c84c85fb900934caaa8c40e61e2ccfd9083,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/mixins/_table-row.scss,792,b976643c551dd2809bec5c620c3356ebb00eae805f233f60fd00ecd685c0fab5,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/mixins/_text-emphasis.scss,364,3c2718e224403d6cd3b93bd02b388aab50759217437a990183cb46c628afd665,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/mixins/_text-hide.scss,326,301d8c5ca2a34b9fb4ee21f98897f47226356e140fabab166df6f3fef8fc6e25,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/mixins/_text-truncate.scss,168,e85ea7e6025a8a061fe65b27706be1b1fd76fc3164c4c91d6727f91a0055ae1c,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/mixins/_transition.scss,364,be18d5ebd5ae889450cb7a2e4f3806ce986c2fb5085bb29f4049c54f8049fa49,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/mixins/_visibility.scss,189,a26c23ec541f0c281316fd0fdc5af6e77b8ef2cf0962faefd9ec0fbdb26cdd59,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/utilities/_align.scss,420,520e54a8e4b23655af787da250eb6b91e64f4997d6f6d02f0eae5dc7622f2a41,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/utilities/_background.scss,397,16f90453aa79392de158d41641a96e9d2ff8bae90424b93d7c11a2acb903fa92,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/utilities/_borders.scss,1765,9017280d8f7fdde8a45bc6ecc9fbd3fa42eb7d251ed5f430f38518971044866d,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/utilities/_clearfix.scss,37,7fdae7a5d8899c474419f72c6f8452fee490d80953678b7b34adb8d0e4e790a9,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/utilities/_display.scss,519,05d27c10aaf9778ba8486204a060cae022553d61e12232f31835b5c73a159319,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/utilities/_embed.scss,846,d3daa8503295a3587da0210865bc9ceccb856fe400d206d4dd809249065d4262,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/utilities/_flex.scss,2769,dc14669d8f68ac142c117a63745a22af5709e2887768eaae7039acf598928483,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/utilities/_float.scss,376,ee27ec36eca324e4bf09a7078d85696aba6a4d346d0d83e08615fe962d96ba5a,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/utilities/_overflow.scss,133,3da464f4eb0d21db74910fbf52809d90e5c459864c5ba6eb63b9d7ef24be9073,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/utilities/_position.scss,484,37e8361c22f3d4ff6f1148cd4a8ff59cebff754e465e895851254123f0dd7f00,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/utilities/_screenreaders.scss,115,2d0844f20e0ca372a635f3c3df636951c0ef67a04bbc026ced3224348374d009,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/utilities/_shadows.scss,249,3b88c13f70831f9e7c336d49a2bcba06211077ef7f15486dd0357daa1681e6cb,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/utilities/_sizing.scss,498,42ad593a000512db052a6531b65ffaa0c5f35620f664457a25ae99f807196027,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/utilities/_spacing.scss,2101,c437dd983bfcb56309f9a21516bdd3f623b8a0bda4480f85cb718dd54c633f0a,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/utilities/_stretched-link.scss,431,993551e8be7c45b27405a1403e44c926608bc21e48cd46ad7cdc1fa9b785b462,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/utilities/_text.scss,2010,33b962e6fdbed6799b9817b0f73f1588b8d745c46992575a7007006a4a36e071,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/utilities/_visibility.scss,174,e08641e8478ad1e4e4ae1d6331441126552f85e32801af54491148f5f0104b28,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/bootstrap/vendor/_rfs.scss,6473,0e2ef005c8189fc1fd0862a529b81f3c8032ca004e8712fe647e16858414a860,Third-party PHP dependency,Removed; not used by Java application
+WebContent/assets/scss/black-dashboard/custom/_alerts.scss,1600,8bd0cbeb4e19b338601a81aeeb5c8d776e94f14ab765798f2937e50f35103781,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/custom/_buttons.scss,5032,54b6123fdfdabcc3e61973ef0c29d26856e7df921ffce36e01e2d63e27d1d209,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/custom/_card.scss,5098,2af17c83aa01d88471417acbdfd33ac2b989cd65a1b2d9ef7a0c86818947ec4b,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/custom/_checkboxes-radio.scss,3645,0d218bd5bcbd708dd116944d6abed1f9ee4d98daef3bcba95ecb06234965266e,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/custom/_dropdown.scss,7600,066fdbf567ae67f5955d62be6fbfd0e6cf3c93b8d06f82b1050336a840ae6c5a,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/custom/_example-pages.scss,4562,b3751606126ed495fc87e8ef0e325ecb0bdce65c4ced26215e568a275f15881c,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/custom/_fixed-plugin.scss,6861,c1e0517d3d0f50e317ade84fb43801a3271106ba0d5b914eef87ae32b44153b9,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/custom/_footer.scss,1406,579eedd9f93962f01817a9b8341e7d39ff7482a9c54525d65afcc63d9bb04434,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/custom/_forms.scss,2878,7748d08dedba84a823acd9d72bfa62b3ff78d43bf00224674c9c6a999cc2b4b5,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/custom/_functions.scss,568,828e99185864eba036113eb913d92071922a0c724ddd27a19a140751fad68176,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/custom/_images.scss,117,62256bac3d9b3ce04de3eb1c6ab4801dd63346a410ee46b587cd1e688de76a05,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/custom/_input-group.scss,7400,36256cfd00f4d457e9e307958284a9bf7b6e753429bd64fb3605f2630e4d39a2,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/custom/_misc.scss,3573,13777b07f33fdec61faccea719dfa33834e945976c4c33cd42fd415a6db62f47,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/custom/_mixins.scss,478,9dd44911c8ef6ce482feece9b030767b6b6d7f26ad22fe6fcc8824c18f8f5391,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/custom/_modal.scss,2818,260212e692e7d19623e642faad14bad8148d93be0929e28738cc18f2b028cad4,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/custom/_navbar.scss,7266,ef521ccfbb15fabfae9a86f71ed745c2c108376f6942088ad6a4a69b5fd2b9d9,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/custom/_rtl.scss,3400,09678b0a119add5395e63cb72573cb89d9fc03543fae532516c8a47094c74a7f,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/custom/_sidebar-and-main-panel.scss,18838,5c9b65f50e0c533cd68418f178aec9dd789d5316e371b05d61171f8cbf4937e7,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/custom/_tables.scss,3458,435c31abdb7c0f4353f8d0f922bec6e1e5bb59fc40699c4aef7a2e0c142eaf30,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/custom/_type.scss,2766,f81d5dafc57069d6b3f0dec51b52bd75e0369e74d3071faa675c7cab65455c96,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/custom/_utilities.scss,309,2169c7394d1afea753c0e11149e7949598029a32d17e0a4f51b78ed72e930a15,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/custom/_variables.scss,36618,5255a715c215a7ef4981005c60c7d3cdfec8f4e8faef2dd31f09c2756aaf3ab8,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/custom/_white-content.scss,6207,ab97858f9509b0763cdd70cecffb381b05d65fdb91171aeb5939a24dee9d417f,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/custom/cards/_card-chart.scss,981,4b878bd0392c6b0b1a0c94e69623ba7054c13ab5079a53c90307cf96f3c9c83c,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/custom/cards/_card-map.scss,26,087d4c25217f81f16e8166a839d83735be19443217c12281124fc7a4d4235111,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/custom/cards/_card-plain.scss,270,49597de2f121bdab1e6ccd3d072c9b365f861e7d3659c3aec402301fb03b3b65,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/custom/cards/_card-task.scss,421,cf4bfe407a47ada9a00cf8267eaf4fce2999f49dbd334878714ec80f02b0fba2,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/custom/cards/_card-user.scss,1703,8d91f75d5b1e75621f73d404e319e590de1ed3183059f4edb235dbbb92733e4c,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/custom/mixins/_alert.scss,331,1e00a2617de0d1a9f16f32b125005e7129daf79becc2750d2db521af8e2a45c4,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/custom/mixins/_background-variant.scss,449,6348563db72e423cd66ef1d7f7dd66aa79b1e802a6b16e148d000a617af8b01a,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/custom/mixins/_badges.scss,280,46352aed6846c44331b08b80d05e46ef4046c9392a2ea0ce513d205f768e3955,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/custom/mixins/_buttons.scss,9533,53aa1f1a5132bb0195aa57f2926527f212c528723da294936eb9c4b3a5898f4f,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/custom/mixins/_dropdown.scss,516,ff773adb80ae442e5e041d53322a7d42f583937d6cf193230bc9195d0fe311c1,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/custom/mixins/_forms.scss,2678,cc9a07bc1cae901297ed6a83ea50bdbeb6ce9a1f9703383c21ed6ffb270e695c,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/custom/mixins/_icon.scss,147,7fa043a0a9ea95b1e2726ad5bd05c245b7f55ca5bb28e8d7162bbb10cab35bf1,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/custom/mixins/_inputs.scss,6389,e93001b724589280f9a997d7b35cb2afbb76d7cb18c0f3dfc1d919a689c922e8,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/custom/mixins/_modals.scss,304,40ef5c5cd8154f2779fe0542306f8a891e0fab5a181f96e241de2b80da033d76,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/custom/mixins/_page-header.scss,474,ff489e1098a66b1ae7d26591ac6431f0ebba68793548512a77947c0dbe6a1d01,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/custom/mixins/_popovers.scss,687,1692c6c5f1afaabe41b50a75f63605c7c4f3f4effa51abd75c14a2160186c704,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/custom/mixins/_vendor-prefixes.scss,7224,0608fc330e253a0ac9b9804d577931f546849f0c8ebb7f02c9e7bdb65a148dba,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/custom/mixins/_wizard.scss,629,df1a154b86cafff1a64b041ea7fad3c7aeeee16e9f4fbbc34591ac3addf1e02b,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/custom/mixins/opacity.scss,152,24a43bd4cccdf1523772ee49cb5d26e7bf8cd3f76202221ce2d417180f920e60,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/custom/utilities/_backgrounds.scss,799,733c4dde938ded5175316b71fffe6c1825063dac6476512923bb20f043c1485a,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/custom/utilities/_floating.scss,809,0034b713b5787ef14859ceeb1b14140dcf127e2ffe105868cff24571a38cf953,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/custom/utilities/_helper.scss,816,b10cc21a490d50992e23e96a8e245f618e3c72455db9a0e988d8fcb729aa9ce2,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/custom/utilities/_position.scss,242,3c843337436705b97a5eca20006797746bb2689c3016ad16b4fb8c42681aa648,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/custom/utilities/_shadows.scss,348,862f770fc03386e12940e9d12d3b3b7551df4f8bbeb589ebc0bd498ce7fc9d98,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/custom/utilities/_sizing.scss,64,6b8a6ded59e9fdbdac373119cc17acf26efb7560ad8a212dcaa00754485e7b73,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/custom/utilities/_spacing.scss,2039,0e84ba7587f9c970bc810b29436590f6bc93cc632459dd27d0a1df8c6102e4f7,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/custom/utilities/_text.scss,982,38d0a3a2b6652cd3fbe887144196987e6b9f602abe9c62c48cba612da672e89f,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/custom/utilities/_transform.scss,276,8b07c362f924df04fd2e42576da6e620d58d390a7cad6cf1f7e9505f675e9499,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard/custom/vendor/_plugin-animate-bootstrap-notify.scss,3315,56bdca20c202ea5648ed364315d2835ef7db4db062c28d510be1b0a242ff93c8,Third-party PHP dependency,Removed; not used by Java application
+WebContent/assets/scss/black-dashboard/custom/vendor/_plugin-perfect-scrollbar.scss,2598,7b6508c9e8e04de8ebfec5de2ce1c4303bc46a0a279283eff7e248c1c900a91b,Third-party PHP dependency,Removed; not used by Java application
+WebContent/assets/scss/black-dashboard/plugins/_plugin-perfect-scrollbar.scss,2598,7b6508c9e8e04de8ebfec5de2ce1c4303bc46a0a279283eff7e248c1c900a91b,Third-party template resource,Replaced by standalone application CSS
+WebContent/assets/scss/black-dashboard.scss,3578,4c3f2d9e6a7443b45d542939383e16aa3b3d84d5268930cb362148f40b1ef8e4,Third-party template resource,Replaced by standalone application CSS
+WebContent/dist/script.js,1419,a791f91226e14eed1513a219c8981c63a3849feccc6ab1e02c4d4eae6ad66d6b,Template/build/documentation content,Removed or replaced by project-specific documentation
+WebContent/dist/style.css,4950,99443486326693662ade98c40803483bf9cfd9c8cdc8aaf268b8f9a9201c2f56,Template/build/documentation content,Removed or replaced by project-specific documentation
+WebContent/docs/documentation.html,10878,25c1091f76f7d486362804ec3a54113edcf74d9d420e145aae3b95fc43c27946,Template/build/documentation content,Removed or replaced by project-specific documentation
+WebContent/examples/home.jsp,13589,811da243cbe1e63611ac0efb26645beec34f48bb700f5135f247600d988a3477,Application view reviewed,Replaced by dedicated JSP or removed demo
+WebContent/examples/icons.jsp,20160,58735b59ff8020c9e3994c49be3519bd7456409d89cfe5db47b689bf41b1a570,Application view reviewed,Replaced by dedicated JSP or removed demo
+WebContent/examples/map.jsp,15484,964cb10544a913610df576aa2420a02d9b6136ee35b61248c2d16a6db51a5c56,Application view reviewed,Replaced by dedicated JSP or removed demo
+WebContent/examples/modifierEmploye.jsp,18223,c75286dc9b5fefae8a95c35974266e884b42150c3d73806c19c1448af5fed7a5,Application view reviewed,Replaced by dedicated JSP or removed demo
+WebContent/examples/notifications.jsp,18822,40732776d35614cb4c23f631965fe32a05c44a1a955b718037a2cfbb8f60564d,Application view reviewed,Replaced by dedicated JSP or removed demo
+WebContent/examples/respMsg.jsp,23680,3b99704ec787b7bebb4e8f0ccf86a5cdc87ae8ceacfaf3fedce78022bee8edb1,Application view reviewed,Replaced by dedicated JSP or removed demo
+WebContent/examples/sendMsg.jsp,19420,4a3601329704fdaceba08373e89e7e32461ac1b1418e0b1526a4aa22d71e9571,Application view reviewed,Replaced by dedicated JSP or removed demo
+WebContent/examples/tables.jsp,19331,377f345e26deed7706881baa4937fda9ce77295ef08bd227ab90da3aed266ca2,Application view reviewed,Replaced by dedicated JSP or removed demo
+WebContent/examples/test.jsp,18581,73a1d3dd1800b3ac957a0b81eb822ff31f874ec7275f42a15a5ffafcbe6f8af2,Application view reviewed,Replaced by dedicated JSP or removed demo
+WebContent/examples/typography.jsp,15899,e593742d1fe8bf027006e3c746b5b91417d8b8f5bdedcd54ca0601a31d483c00,Application view reviewed,Replaced by dedicated JSP or removed demo
+WebContent/examples/user.jsp,19551,6e241f85704abfbd089e1faa12ffd0eeeda00fec53e91fbae29f413b3f64c1ca,Application view reviewed,Replaced by dedicated JSP or removed demo
+WebContent/form.js,1674,4a78afe2b8cd526a0cde5abdb3ec39f7f13f29772cfad430818179839392d80f,Template/build/documentation content,Removed or replaced by project-specific documentation
+WebContent/formpage.html,2896,5e5e343c1efd8dc51c2fa3ba5c3c91b9e823086cf45e28577e1b41c469bc4827,Template/build/documentation content,Removed or replaced by project-specific documentation
+WebContent/gulpfile.js,860,bc1bfba8e51123b35db9523bea505aaa5dc510c677da6ceaf764b3409caa48dd,Template/build/documentation content,Removed or replaced by project-specific documentation
+WebContent/images/window-484596_1280.jpg,695791,b420a4509ff26c20b37e462d118b1975d9dd9865c76098bfebd66bdfdc2f4374,Template/build/documentation content,Removed or replaced by project-specific documentation
+WebContent/license.txt,1108,0e06aa98cf475473bb970e4923125cfd17a45ef4c6a8a9247999d573ce92cf93,Template/build/documentation content,Removed or replaced by project-specific documentation
+WebContent/login.jsp,2123,a33d5103b958bd9464bf783fb440540b2248d980527a612303ab67a5f731c70e,Application view reviewed,Replaced by dedicated JSP or removed demo
+WebContent/package.json,1365,0b2a7ebe01e1695bbda3f4a161c44fc99095522b33fdb85177dbf66c3d1f9eb3,Template/build/documentation content,Removed or replaced by project-specific documentation
+WebContent/src/index.haml,1482,d189ac7092219f485b57b025a934f0006874908003bcde7857110fe21dd73614,Template/build/documentation content,Removed or replaced by project-specific documentation
+WebContent/src/script.js,1421,06e5f3fa04ca57fb175fc77af3cdaa218e75fea9c0e792f6c48fcaf48fc8c94c,Template/build/documentation content,Removed or replaced by project-specific documentation
+WebContent/src/style.scss,6436,d153c37ace1ea2b8261c46de7b3c74b1d33d117aae391d297125ccc0c02b3e54,Template/build/documentation content,Removed or replaced by project-specific documentation
+WebContent/vendor/FormGuide/PHPFormValidator/.gitignore,47,f6d67fc236679b319b94a1fd12f53ed5304c667f8acc26ddc53cb2d42f3d9646,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/FormGuide/PHPFormValidator/LICENSE,1063,d60a0e02f5eeb49a7be2d1b53473ad38068233fa77d71025a5c10a44ce314668,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/FormGuide/PHPFormValidator/README.md,889,eacb44129e36112167d0c28bbac0e0cee8d48ef7f18ac52967a7255a322f06ec,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/FormGuide/PHPFormValidator/composer.json,503,9d9f639d0cea79e7e6cb9cb0703d57048a8ae9ab5f98d402c5c9f3bfc53f06ba,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/FormGuide/PHPFormValidator/phpunit.xml,387,704dd62ed4a651fdb0e248d0e7347c184817791127f26be040eb1e89a9dad4a9,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/FormGuide/PHPFormValidator/src/FieldValidator.php,1796,2fd7f3342a3579937e7bd096d5b04a7e258033cd5bd7fdb82963ed18ca2b13be,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/FormGuide/PHPFormValidator/src/FieldValidatorCollection.php,720,12cbec83ac8415a8fec7c7eec5153e662fbecf3273a8caee2c9256925268512c,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/FormGuide/PHPFormValidator/src/FormValidator.php,1652,c617f6f411933cac07221dad290159db2f767f21b81b70092b07a02a58ebb723,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/FormGuide/PHPFormValidator/src/ValidatorMap.php,511,92b13044513e804b06beb08effed7ef6fc59aa5340ce19390afdc080f8424df6,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/FormGuide/PHPFormValidator/src/Validators.php,4060,629fd0552800ce34b63a45d17b87b78961266e88f565142c8eb0fa61feda19d0,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/FormGuide/PHPFormValidator/src/ValidatorsList.php,612,fecba492f3b4ad91822e4713df1f62da4f02cc74087a4cb3c22cbe869012789b,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/autoload.php,178,719505388dd90da4b29420771cc3b058896b644ef40b0ee6fd3150fc16139934,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/composer/ClassLoader.php,13451,7ed0e500e81a43b8f106d0c19ace4e7352473ac7938e67424b8e5a69a4895f6e,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/composer/LICENSE,1070,c8cce4b6b9729f264ffdf9296d505d63432497feeed1f586d1902b942197e024,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/composer/autoload_classmap.php,804,c85ea219a30d0aa01917152bde9fbd82521d2bafc8096db1ffa45676b4febc98,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/composer/autoload_namespaces.php,149,6d1b582b311799934568f00d45e01de7a04f8a1865a8a72c7841904ad4dac3a7,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/composer/autoload_psr4.php,360,dcb425256c49aba102a65e6f3a525d5e1e06d003869b273e130de22b4473578c,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/composer/autoload_real.php,1762,41de8458c913c86dae6dfc627c9c1839a5fb739a7144efc8d1d4161f42bca1ba,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/composer/autoload_static.php,2095,d33375e58430661bcb6b729ccc871a550d6d3497745d301716c8b1288373a98a,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/composer/installed.json,5862,d7c3f295b775ba8d30351caba886d4976bd7edd59f5b82c0c16c5ca8f8ed0196,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/gregwar/captcha/.gitignore,33,a64df92678b50e134291a42fc4aaa9006f61cf0e4e3430e252398dcfed09b37f,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/gregwar/captcha/.travis.yml,129,cd1d74afda38a52383151d8c317bff8589bcf916d32d13904694db1a1c460fe6,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/gregwar/captcha/CaptchaBuilder.php,18603,4ca2934b407bbe156fc3bcdfee094b01bacd2860e199d195a8e4486f2b585a8f,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/gregwar/captcha/CaptchaBuilderInterface.php,466,cdb46d7498b0e17ff05dc28b4ff5f2872697b52ce76978c5ee1c029d9353ca1e,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/gregwar/captcha/Font/captcha0.ttf,49224,da4281dc7db17a3dfce64a62ced92875c5895340055ec8ba24a3914eb97b349d,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/gregwar/captcha/Font/captcha1.ttf,76232,31a52ab4b2f576f99cfe52d758214458aa1206739a26c3a75f16000160f60ec9,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/gregwar/captcha/Font/captcha2.ttf,33984,65ebc40024d62ee4ad25881554185c94bfa650b80ea2b4c61209b395d858cd44,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/gregwar/captcha/Font/captcha3.ttf,15976,e337ada1698a32481459f918e164e57f6b8a4ea8499fd6ebed0b0fbc6288f91c,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/gregwar/captcha/Font/captcha4.ttf,906980,62523df9964670f58702447cea589158de9d7fbbfdfd34e7007f19c2120bf4c1,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/gregwar/captcha/Font/captcha5.ttf,49724,e27b479dfd595696bbd72c7167447e3f27ebf7d171ebc9b753151afe54d17031,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/gregwar/captcha/ImageFileHandler.php,2428,7a1b96d2890e8cd85ec3e72cb1e343e0b1bee2bd46b37709ff82383bbbc50b4a,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/gregwar/captcha/LICENSE,1069,1fe6149e5bdfa505cb06ee0e546d92158add8161bcb1dd2999504ceaf1cea174,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/gregwar/captcha/PhraseBuilder.php,685,b0bb895319941b69ac4e0b93556ef4f330a6ba17a0f39d7d2fcb1f7f8a8079d9,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/gregwar/captcha/PhraseBuilderInterface.php,365,d6124ecfed5a80ad58098df044c75569b448a4bde9f8675ee2e0b97d606ce637,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/gregwar/captcha/README.md,3498,88a027884504f78d181859e9987ec0acbb58879caf2bac79b6afeaa9cc937cd3,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/gregwar/captcha/autoload.php,442,7e65bee32a57656e385e97c8983b7df3dedffb33a1214d42f3259039a7534fc3,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/gregwar/captcha/composer.json,677,863233bb9ed09b2d08a3a3bf9e3a1991a594a7447f6b5d3eae3b35256384e117,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/gregwar/captcha/demo/demo.php,311,ee47f40fb1fc0b5a8dc22838fb94055a18de9f6ddd3d0f5fcf427f11b2b34cdd,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/gregwar/captcha/demo/fingerprint.php,321,dbec5010f5ada9d78b608d8eca5a8786f8d843395cff6046325a504f3dd6766d,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/gregwar/captcha/demo/index.php,359,0a140c47b7e71bd03f3c542695c9c9bc082b1e71a9fbf161004ef651d16c72e9,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/gregwar/captcha/demo/ocr.php,850,031d4a596b52a971bcd1c5e0f75743830652eebcd7da4de4c797bce54cca7b7e,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/gregwar/captcha/demo/output.php,326,eca81a8975ae7cc6fab75b0c372b4e715f28cdd31b9e02d9452fe026b50e2c9a,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/phpmailer/phpmailer/.github/ISSUE_TEMPLATE.md,168,de71dcc969201fbed2d6c6d4b28022ef26f929d08232a9e450e3738f11d7cd9a,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/phpmailer/phpmailer/.github/PULL_REQUEST_TEMPLATE.md,168,de71dcc969201fbed2d6c6d4b28022ef26f929d08232a9e450e3738f11d7cd9a,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/phpmailer/phpmailer/LICENSE,26421,d0d3fa8b53944c18c36bf4955eeb7b8f386873e62d4391697c7e344d41620118,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/phpmailer/phpmailer/PHPMailerAutoload.php,1689,af5a7fc0304fa812060e082863661e966cffc1595cae4cb94a6965573bf64086,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/phpmailer/phpmailer/VERSION,7,208ed9652ca7335a12384669c731c766430b6c3c064485ae86f6ce23a8e1712e,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/phpmailer/phpmailer/class.phpmailer.php,146904,232c4e87ee5f4d17b0767b2670c4b1d1e695ae12d517c2fd34a6a144ef61db51,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/phpmailer/phpmailer/class.phpmaileroauth.php,7216,d04b40e846437ae19c8d32f67faef71a77e05454fa286ccb6e68b6ddd9af13be,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/phpmailer/phpmailer/class.phpmaileroauthgoogle.php,2464,f799b1e8be6e9be8967d263b01d20bb68d9ddc63376c54d1338277e09421ef38,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/phpmailer/phpmailer/class.pop3.php,11006,42a9c2a747ac5b1cb943241567f1f91e990bd2670a794bab605234fde3deaf8c,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/phpmailer/phpmailer/class.smtp.php,43495,3b42c9e4b4a052a1f90e643bc9a73121dc487c9dc1830cf622c05b1de140aeef,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/phpmailer/phpmailer/composer.json,1885,c94196fbcf8db2ce8fc72cfb97688aa70e26e50c55c3087a526b6177f62eef68,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/phpmailer/phpmailer/composer.lock,128969,5fe415bb9d43df8e1acf4e1a4f813e222a0294b57c7c26d8f9512610f6d48219,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/phpmailer/phpmailer/extras/EasyPeasyICS.php,4062,9df8e02d80bd50b41b9e07bfc92a08d1d781b78170797ba2d2c4cf4dd18fe5a8,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/phpmailer/phpmailer/extras/README.md,1636,17e6e267d99a18be9ab8cd95f6faabb16f81e7ef649237dbc9edd23d350b0a47,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/phpmailer/phpmailer/extras/htmlfilter.php,39267,1c43718e8625b8df7b40427c812ea944e825da70ad206c4bd1102eeac1f67357,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/phpmailer/phpmailer/extras/ntlm_sasl_client.php,6651,0730cf958e5d604f49f41e79e65b0572931708a9cc4c4b2aed6fa8fac972d998,Third-party PHP dependency,Removed; not used by Java application
+WebContent/vendor/phpmailer/phpmailer/get_oauth_token.php,5036,4234a653f4fd37e786dad84ebc74c100166c60933ba9f5b45e2a2d816d77ba19,Third-party PHP dependency,Removed; not used by Java application
+build/classes/dao/ICaseTabImplDAO.class,3348,eb8b364cbc8294de20a8b4bcf2080812c559ba5cdc6889e052ad61cbb82c6234,Generated bytecode,Excluded; rebuilt from source
+build/classes/dao/IdateSemaineDAO.class,324,2cf940efc55554eb8c8e895a59681f46c4a1a64adb9cc755636caf87b9b3504c,Generated bytecode,Excluded; rebuilt from source
+build/classes/dao/IdateSemaineImplDAO.class,3891,a1458a4696daae4862479e08d170e41539b205d4e721bf0bc2a9ce502e374a17,Generated bytecode,Excluded; rebuilt from source
+build/classes/dao/ImpAbsence.class,3763,b83a958c3c3b07f76ed5b45569454b449dcf597a84aaeced05530b7ce9ac8463,Generated bytecode,Excluded; rebuilt from source
+build/classes/dao/ImpEmploye.class,7121,b2babd0501ef602a7050e0dbe65fa53808bc9ac1be24c812bf14b1a69890f22f,Generated bytecode,Excluded; rebuilt from source
+build/classes/dao/ImpMessage.class,4292,d2aad5096d10c925620564b71583571b3372aa270529d6215b05d81057689090,Generated bytecode,Excluded; rebuilt from source
+build/classes/dao/ImpNotif.class,1883,97a297313b169c3e6e89c554e32a284d08a9bfd1333a698661fafb3437bbd2ea,Generated bytecode,Excluded; rebuilt from source
+build/classes/dao/LoginAdmin.class,2620,d4ee11247dd73fe0beedc1f1ce7807eed9177019257ce923a693c9026d7d6821,Generated bytecode,Excluded; rebuilt from source
+build/classes/dao/Singleton.class,1445,a34bf8784e7b4880b501c80e553d8e20e460fc566a093304c0aaeeb79efa7180,Generated bytecode,Excluded; rebuilt from source
+build/classes/dao/Test.class,912,d4d26eec95af12a96527628beb5e7d91f74c2775e823cbbe7eeecc60d59c5081,Generated bytecode,Excluded; rebuilt from source
+build/classes/entities/Absence.class,1375,6c0be8a743e16d0466b86f98bae8d7ab349e7af7dccbe599e5b264a2e1318203,Generated bytecode,Excluded; rebuilt from source
+build/classes/entities/Admin.class,1691,c7e7db8bcb48fd3f2697c831e41ba5553f534216c82d2dfb38d52dc6baa2de18,Generated bytecode,Excluded; rebuilt from source
+build/classes/entities/CaseTab.class,746,f810df03774d57a60e72447b347efa70a32d24e511375cbc7e050be7a84f246e,Generated bytecode,Excluded; rebuilt from source
+build/classes/entities/Employe.class,3537,4bd5706dc302e736d4439cfab88ae3395059df4cba963a9432567e1db6a8be69,Generated bytecode,Excluded; rebuilt from source
+build/classes/entities/EmployePK.class,1308,6ce582c6b921f33bb84e830cb3bc78dee4e3890ce319a47e31aa352d2f592cb2,Generated bytecode,Excluded; rebuilt from source
+build/classes/entities/Historique_des_absence.class,566,467f9f022d337e9c06453e707a0ccc1d33dd9cfa143fe1e79ad11bfe8a0714fb,Generated bytecode,Excluded; rebuilt from source
+build/classes/entities/Message.class,2924,e1b38894110230d819c6470342b7b7c4efbdac3795f1f277035c9a8c1af0b5bb,Generated bytecode,Excluded; rebuilt from source
+build/classes/entities/Notif.class,728,72e06350c3b926421d14e9c93290fcc87631197934c59575197496816b53997b,Generated bytecode,Excluded; rebuilt from source
+build/classes/entities/Poste.class,2935,14040048c028605f41a4d160f4df645826c73e8244dbe6c253912049ab7d3847,Generated bytecode,Excluded; rebuilt from source
+build/classes/web/Login_Servlet.class,3263,d117afd2087ead9f287c2b7cbe7514713d619dff3374c5296445c82a41580c11,Generated bytecode,Excluded; rebuilt from source
+build/classes/web/Servlet.class,11481,7f507518046633f596fa72320d44e0d78500338dc3151112c8e962fbf56c380b,Generated bytecode,Excluded; rebuilt from source
+build/classes/web/package-info.class,109,3fbccf1e496a4aa18545ff9a548e7683c7f93dd284a56327dc2a33a2d474e2f1,Generated bytecode,Excluded; rebuilt from source
+src/dao/ICaseTabImplDAO.java,2353,7a494f7b73f41b73ea94d17d6dd852a7377b0597bc83041830e9ef55458e8c1a,Application source reviewed,Replaced by Maven MVC implementation
+src/dao/IdateSemaineDAO.java,286,7bb94c2922b53149771a25a063aaf15aaa4247cf1211b15d7b8c4791cf00a5fa,Application source reviewed,Replaced by Maven MVC implementation
+src/dao/IdateSemaineImplDAO.java,2629,13f6b148bdc4ce7226743c62a012432a0e27988571534fdcc9ef5db7c5ca7ef7,Application source reviewed,Replaced by Maven MVC implementation
+src/dao/ImpAbsence.java,2997,d9a1cba421bf714384f4cb2328da189f2a547e7a65696da5fa347e2fc5af8d74,Application source reviewed,Replaced by Maven MVC implementation
+src/dao/ImpEmploye.java,7083,df8bb5629351199331e9cc0e33546801338a7fa77b430a9e0467d7504a0b0662,Application source reviewed,Replaced by Maven MVC implementation
+src/dao/ImpMessage.java,3792,39346e08ef311da35a994e8cf617b8a2341a81a7d94b3ea7db109cc86d923642,Application source reviewed,Replaced by Maven MVC implementation
+src/dao/ImpNotif.java,835,d859a60e42c9517d5fb649f79d67fffa04939e059f2206fdca085530aa6fbf2d,Application source reviewed,Replaced by Maven MVC implementation
+src/dao/LoginAdmin.java,1963,9302e17a746db9e8d4a52473e42d103d37b1aa594129b52d41f21502ad42bda9,Application source reviewed,Replaced by Maven MVC implementation
+src/dao/Singleton.java,761,225213c10a1ad790bf7e5ae22dd797c4b2a83905e5e3e2ff3f8d77e19694497f,Application source reviewed,Replaced by Maven MVC implementation
+src/dao/Test.java,882,0c68b2cb1f567be90780a6e37944e500cd505534814346075980fb4c71fc14bd,Application source reviewed,Replaced by Maven MVC implementation
+src/entities/Absence.java,1010,c2d3b45f5cd6a7b0cbb9707d9de36a0bdddb999a7cb6a8fef7f9573bef05214f,Application source reviewed,Replaced by Maven MVC implementation
+src/entities/Admin.java,1293,b426752a35e5ee062f2a1f788999067cd477b4215959be24cebef8ff1dab0a4a,Application source reviewed,Replaced by Maven MVC implementation
+src/entities/CaseTab.java,397,9887713919fbd334de06f769110b221845154a8c54bf405dbecfe9af2be5505d,Application source reviewed,Replaced by Maven MVC implementation
+src/entities/Employe.java,2962,4074a70f941dd75640d38a0511b5b2825e009fe328cfc6aa85558e1bc5813816,Application source reviewed,Replaced by Maven MVC implementation
+src/entities/EmployePK.java,1135,03a80790e8c3862accdc2157fb9e9ce0507660dbb17ab50e8f6d6e6a49f309f7,Application source reviewed,Replaced by Maven MVC implementation
+src/entities/Historique_des_absence.java,326,b9df39a7c3bb8c9e4d13e810e4aa4782e849da00af6047d9d926b34d508ae9c8,Application source reviewed,Replaced by Maven MVC implementation
+src/entities/Message.java,1967,eed15226d8ca1b2a0b397f0ff1f1bee43de5a76ebe4a64b6fdb4405f7031663a,Application source reviewed,Replaced by Maven MVC implementation
+src/entities/Notif.java,353,cfa5cef263c082647eb22cdd10849002253f38694d749b00c334b4de2f0f3374,Application source reviewed,Replaced by Maven MVC implementation
+src/entities/Poste.java,1995,85e37d2fa37af54d863d45e2fa1fd8ef12017bba5d9b101c7d50bbf26cab9ce6,Application source reviewed,Replaced by Maven MVC implementation
+src/web/Login_Servlet.java,3008,b933b158e5e824299448d4a48f553ec3cd45114d7959ddd53290ab8d1ff9b734,Application source reviewed,Replaced by Maven MVC implementation
+src/web/Servlet.java,13718,7336b358a6777865c79f40599d9a0b7ceec01c7e627ce2fc2c568b2eaa0175a3,Application source reviewed,Replaced by Maven MVC implementation
+src/web/package-info.java,12,08b55611eeced70bde26dd9cf096a49944779b1ff78f526b83090483e1428734,Application source reviewed,Replaced by Maven MVC implementation

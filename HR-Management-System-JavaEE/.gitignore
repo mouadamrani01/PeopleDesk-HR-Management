@@ -1,0 +1,15 @@
+/target/
+/build/
+/data/
+/.idea/
+/.settings/
+/.classpath
+/.project
+*.class
+*.log
+.env
+.env.*
+!.env.example
+*.iml
+.DS_Store
+Thumbs.db

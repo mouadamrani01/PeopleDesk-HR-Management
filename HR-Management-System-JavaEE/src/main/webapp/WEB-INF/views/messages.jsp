@@ -1,0 +1,20 @@
+<%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>HR Management</title><link rel="stylesheet" href="${pageContext.request.contextPath}/assets/app.css"></head><body>
+<header class="workspace-header">
+<a class="brand" href="${pageContext.request.contextPath}/dashboard"><span class="brand-symbol">p.</span><span>PeopleDesk<small>YOUR PEOPLE WORKSPACE</small></span></a>
+<p class="nav-label">WORKSPACE</p>
+<nav aria-label="Main navigation">
+<a class="" href="${pageContext.request.contextPath}/dashboard"><span class="nav-icon">◈</span>Overview</a>
+<c:if test="${me.role == 'ADMIN'}"><a class="" href="${pageContext.request.contextPath}/employees"><span class="nav-icon">♧</span>Employees</a></c:if>
+<a class="" href="${pageContext.request.contextPath}/absences"><span class="nav-icon">◷</span>Absences</a>
+<a class="active" href="${pageContext.request.contextPath}/messages"><span class="nav-icon">✉</span>Messages</a>
+<a class="" href="${pageContext.request.contextPath}/schedule"><span class="nav-icon">▦</span>Planning</a>
+<a class="" href="${pageContext.request.contextPath}/profile"><span class="nav-icon">◎</span>Profile</a>
+</nav>
+<section class="sidebar-tip"><span class="tip-dot"></span><strong>A little more organized.</strong><p>One space for your team,<br>your time and your next step.</p></section>
+<div class="sidebar-account"><span class="avatar">${me.role == 'ADMIN' ? 'AD' : 'EM'}</span><div><strong><c:out value="${me.name}"/></strong><small>${me.role == 'ADMIN' ? 'Administrator' : 'Employee'}</small></div></div>
+<form method="post" action="${pageContext.request.contextPath}/logout"><input type="hidden" name="csrf" value="${sessionScope.csrf}"><button class="quiet">↗ Sign out</button></form>
+</header>
+<div class="topbar"><span>Workspace <span class="breadcrumb-divider">/</span> <strong>People management</strong></span><span class="workspace-pill"><span class="status-dot"></span>${me.role == 'ADMIN' ? 'Admin workspace' : 'Employee workspace'}</span></div><main><c:if test="${not empty notice}"><p class="notice" role="status"><c:out value="${notice}"/></p></c:if>
+<p class="eyebrow">TEAM COMMUNICATION</p><h1>Messages</h1><section class="card"><h2>${empty reply ? 'Compose a message' : 'Reply to message'}</h2><form class="grid" method="post" action="${pageContext.request.contextPath}/messages"><input type="hidden" name="csrf" value="${sessionScope.csrf}"><label>Recipient<select name="recipient" required><c:forEach var="e" items="${employees}"><option value="${e.id}" ${e.id == reply.sender_id ? 'selected' : ''}><c:out value="${e.name}"/></option></c:forEach></select></label><label>Subject<input name="subject" value="<c:out value='${reply.subject}'/>" required maxlength="200"></label><label class="wide">Message<textarea name="body" rows="5" maxlength="4000" required></textarea></label><button>Send message</button></form></section><h2>Your inbox</h2><c:forEach var="m" items="${messages}"><article class="card"><p class="eyebrow">FROM <c:out value="${m.sender}"/> · <c:out value="${m.created_at}"/></p><h3><c:out value="${m.subject}"/></h3><p class="message-body"><c:out value="${m.body}"/></p><a href="${pageContext.request.contextPath}/messages?reply=${m.id}">Reply</a><form class="inline" method="post" action="${pageContext.request.contextPath}/messages"><input type="hidden" name="csrf" value="${sessionScope.csrf}"><input type="hidden" name="action" value="delete"><input type="hidden" name="id" value="${m.id}"><button class="danger">Delete</button></form></article></c:forEach><c:if test="${empty messages}"><section class="card"><p>Your inbox is empty.</p></section></c:if></main><footer>PeopleDesk · A better day at work</footer></body></html>
